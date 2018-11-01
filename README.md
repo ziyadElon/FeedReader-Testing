@@ -1,2 +1,2 @@
 # FeedReader-Testing
-Testing a web app which consumes RSS Feeds, according to provided guidelines.
+Testing a web app which consumes RSS Feeds, using Jasmine Test Suite.
